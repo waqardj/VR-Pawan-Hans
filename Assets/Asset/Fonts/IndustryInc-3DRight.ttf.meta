@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: cca612b29cae4d546bab00c83500a78a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Industry Inc
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2d0888e40e2c3b4aabb3f0628af069f, type: 3}
+  - {fileID: 12800000, guid: cb3e56c7b5a8c0245b6576d172620141, type: 3}
+  - {fileID: 12800000, guid: b6a864a3d6fc62740bdd176598afa230, type: 3}
+  - {fileID: 12800000, guid: 89410aafd7a23b144998260251dacc08, type: 3}
+  - {fileID: 12800000, guid: 5b32bdd7668e6214d84dbe6be974bb09, type: 3}
+  - {fileID: 12800000, guid: 226d4ff97d9ac9140aa47fbb96b550ca, type: 3}
+  - {fileID: 12800000, guid: 53ef873d41df8344a9ba19aaa6e08466, type: 3}
+  - {fileID: 12800000, guid: 0147ebee3f19d5543962ce080e431186, type: 3}
+  - {fileID: 12800000, guid: e7e37df1a1dab514c8246b80c82c876c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
